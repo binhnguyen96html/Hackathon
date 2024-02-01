@@ -7,7 +7,7 @@
         {
             "matches" : ["https://www.google.com/"],
             "css": ["css/style.css"],
-            "js": ["js/realtor.js"]
+            "js": ["js/app.js"]
         }
     ]
 
